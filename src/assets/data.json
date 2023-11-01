@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "date": "07/11/2022",
+      "title": "The Tech Star",
+      "description": "This a project to learn react, design forms in react, develop sliders with library like react-responsive-carousel. ",
+      "url": "https://reactone-sigma.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg",
+      "view": "View Project"
+    },
+    {
+      "date": "16/11/2022",
+      "title": "Video Appist",
+      "description": "The aim of the project to design a dual theme video web app. Which have a LogIn SignUp page which can redirect to each other, Upload Video page to upload videos, and videos and free videos page which shows all the videos.",
+      "url": "https://react-video-app-mocha.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg",
+      "view": "View Project"
+    },
+    {
+      "date": "02/12/2022",
+      "title": "Cart'S Kord",
+      "description": "Aim of the project to design a web app with the help of redux and use it to create a real time cart for adding, deleting and updating products in cart.",
+      "url": "https://react-cart-sandy.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg",
+      "view": "View Project"
+    },
+    {
+      "date": "10/12/2022",
+      "title": "My Portfolio",
+      "description": "The aim of the project is to mention all about me, my project details & work experience.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg",
+      "view": "View Project"
+    }
+  ]
+}
